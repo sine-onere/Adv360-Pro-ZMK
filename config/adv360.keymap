@@ -90,7 +90,7 @@
         layer_Effects {
             bindings = <
  &trans  &trans  &trans  &trans  &trans  &trans                               &trans                                                                                                     &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans                               &trans                                                                                                     &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans                               &trans                                                                                                     &tog 4  &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans                               &trans       &rgb_ug RGB_HUI  &rgb_ug RGB_HUD   &trans  &trans  &rgb_ug RGB_SAI  &rgb_ug RGB_SAD           &trans  &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans                               &trans                &trans  &rgb_ug RGB_BRI  &rgb_ug  &trans  &rgb_ug RGB_SPI           &trans           &trans  &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans                    &rgb_ug RGB_TOG undefined  &rgb_ug RGB_MEFS_CMD  &rgb_ug RGB_BRD                   &rgb_ug RGB_SPD  &rgb_ug RGB_EFF  &rgb_ug RGB_EFR          &trans  &trans  &trans  &trans  &trans
